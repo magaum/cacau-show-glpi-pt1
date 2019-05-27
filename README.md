@@ -8,3 +8,5 @@ Os requisitos da ativade são mostrar como a configuração dos itens a seguir f
 - Grupo;
 - Entidade;
 - Usuário.
+
+O PDF [configuração do GLPI](https://github.com/magaum/cacau-show-glpi-pt1/blob/master/configuracao_glpi-pt1.pdf) apresenta o passo a passo realizado.
